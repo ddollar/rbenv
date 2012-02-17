@@ -1,0 +1,3 @@
+[submodule "plugins/ruby-build"]
+	path = plugins/ruby-build
+	url = git://github.com/sstephenson/ruby-build.git
